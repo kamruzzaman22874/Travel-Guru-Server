@@ -1,0 +1,32 @@
+
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "COX'S BAZAR",
+      "details": "Light bright airy stylish apt & safe peaceful stay",
+      "img": "https://i.ibb.co/rmGDtck/hotel-Image1.jpg",
+      "country": "Japan",
+      "description": "Tokyo is a vibrant metropolis known for its futuristic skyscrapers, rich culture, and excellent food. Popular attractions include the Tokyo Tower, Sensoji Temple, and the Tsukiji Fish Market.",
+      "imageUrl": "https://i.ibb.co/2jkV7bz/Sajek.png"
+    },
+    {
+    "id": 2,
+      "name": "SREEMANGAL",
+      "img": "https://i.ibb.co/8dSjg5x/hotel-Image2.jpg",
+      "details": "Apartment in Lost Panorama",
+      "country": "France",
+      "description": "Paris is the city of love and home to iconic landmarks like the Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral. Visitors can enjoy exquisite cuisine, fashion, and art in this romantic city.",
+      "imageUrl": "https://i.ibb.co/9cDkZkR/Sreemongol.png"
+    },
+    {
+        "id": 3,
+      "name": "SUNDARBAN",
+      "img": "https://i.ibb.co/prqtJxC/hotel-Image3.jpg",
+      "details": "AR Lounge & Pool (r&r + b&b)",
+      "country": "Australia",
+      "description": "Sydney is a vibrant coastal city with iconic landmarks such as the Opera House and Harbour Bridge. Visitors can enjoy sandy beaches, delicious cuisine, and cultural attractions such as the Art Gallery of NSW and Taronga Zoo.",
+      "imageUrl": "https://i.ibb.co/hfCHTqQ/sundorbon.png"
+    }
+  ]
+}
