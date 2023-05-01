@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Luxury Hotel",
+      "photoUrl": "https://i.ibb.co/Bc1ZHvK/Rectangle-26.png",
+      "description": "Experience luxury at its finest in this elegant hotel located in the heart of the city. Featuring world-class amenities and exceptional service, this hotel is perfect for a relaxing getaway or a business trip.",
+      "rating": 4.5,
+      "price": "$500 per night"
+    },
+    {
+      "id": 2,
+      "name": "Beach Resort",
+      "photoUrl": "https://i.ibb.co/hBnSnWh/Rectangle-27.png",
+      "description": "Escape to this stunning beachfront resort and soak up the sun on the pristine white sands of the Caribbean. With a variety of water activities, fine dining, and comfortable accommodations, this resort is the ultimate tropical paradise.",
+      "rating": 4.3,
+      "price": "$350 per night"
+    },
+    {
+      "id": 3,
+      "name": "Mountain Lodge",
+      "photoUrl": "https://i.ibb.co/QMzWFJT/Rectangle-28.png",
+      "description": "Get away from the hustle and bustle of the city and retreat to this cozy mountain lodge nestled in the heart of the Rockies. Featuring breathtaking views, rustic charm, and modern amenities, this lodge is the perfect place to unwind and recharge.",
+      "rating": 4.7,
+      "price": "$400 per night"
+    }
+  ]
